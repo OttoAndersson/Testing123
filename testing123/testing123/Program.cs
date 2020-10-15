@@ -10,6 +10,7 @@ namespace testing123
     {
         static void Main(string[] args)
         {
+            String otto = otto;
         }
     }
 }
